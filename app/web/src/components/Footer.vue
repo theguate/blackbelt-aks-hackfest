@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Javier 2 Team
+        Javier 3 Team
       </div>
       <div class="col-lg-6">
       </div>
